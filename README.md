@@ -12,15 +12,23 @@
 ### My Project 
 <a href="https://github.com/Nexov25/OctopusBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Nexov25&repo=OctopusBot-MD&theme=nightowl)</a>
 
-<details>
-<summary>&#127942 <b>GitHub Awards</b></summary><br/>
+___
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Nexov25)
+![Github Activity](https://metrics.lecoq.io/Nexov25?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+___
 
-</details>
-<details>
-<summary>&#127942 <b>GitHub Activity</b></summary><br/>
+<p align="center">
+  <a href="https://github.com/Nexov25"><img src="https://github-readme-stats.vercel.app/api?username=Nexov25&theme=tokyonight&show_icons=true" /></a>
+</p>
 
-![Metrics](https://metrics.lecoq.io/Nexov25)
-
-</details>
+<p align="center">
+  <a href="https://github.com/Nexov25"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nexov25&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/Nexov25"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nexov25&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/Nexov25"><img src="https://github-profile-trophy.vercel.app/?username=Nexov25&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
