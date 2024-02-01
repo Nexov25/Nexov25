@@ -14,7 +14,11 @@
 
 ___
 
-![Github Activity](https://metrics.lecoq.io/Nexov25?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+<img align="right" alt="count" src="https://count.getloli.com/get/@:Nexov25?theme=rule34">
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Nexov25&show_icons=true&include_all_commits=true&count_private=true&line_height=28) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexov25&layout=compact&langs_count=12)
 ___
 
 <p align="center">
